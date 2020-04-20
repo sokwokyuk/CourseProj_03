@@ -1,9 +1,9 @@
 # Personal Security Vault
 
-##Objectives:
+## Objectives:
 to design and to develop the Personal Security Vault (PSV) that securely manages passwords and encryption keys for users.
 
-##Features:
+## Features:
 Personal Security Vault (PSV) has four main functions. Password Management, Symmetric Encryption Functions, Asymmetric Encryption Functions and Cryptographic Checksum Functions. 
 
 **Password Management**
